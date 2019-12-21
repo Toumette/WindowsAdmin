@@ -18,9 +18,7 @@ Il existe une commande (que j'oublie toujours, car je l'utilise très peu...) po
 
 ## Les scripts
 
-Pour simplifier l'activation/désactivation de ce compte, j'ai créé 2 petits scripts. Des raccourcis sont placés sur le bureau du compte ayant les privilèges administrateur (qui me sert pour les tâches habituelles de gestion de l'ordinateur). Un simple clic sur l'icône idoine permet d'activer ou de désactiver le compte administrateur et de le faire apparaître dans la liste des comptes proposés à la connexion.
-
-
+Pour simplifier l'activation/désactivation de ce compte, j'ai créé 2 petits scripts. Des raccourcis sont placés sur le bureau du compte ayant les privilèges administrateur (qui me sert pour les tâches habituelles de gestion de l'ordinateur). Un simple clic droit sur l'icône idoine permet d'activer ou de désactiver le compte administrateur et de le faire apparaître dans la liste des comptes proposés à la connexion.
 
 Testé sous Windows Seven Edition familiale premium.
 
