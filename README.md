@@ -1,5 +1,7 @@
 # WindowsAdmin
 
+## Rédaction en cours...
+
 #### Activation/désactivation du compte Administrateur général de Windows
 
 ## Raisons de la démarche
@@ -18,9 +20,11 @@ Il existe une commande (que j'oublie toujours, car je l'utilise très peu...) po
 
 Pour simplifier l'activation/désactivation de ce compte, j'ai créé 2 petits scripts. Des raccourcis sont placés sur le bureau du compte ayant les privilèges administrateur (qui me sert pour les tâches habituelles de gestion de l'ordinateur). Un simple clic sur l'icône idoine permet d'activer ou de désactiver le compte administrateur et de le faire apparaître dans la liste des comptes proposés à la connexion.
 
-* Testé sous Windows Seven Edition familiale.
 
-_Ce cript, volontairement "sur-commenté", s'adresse aux débutants en scripting BAT._
+
+Testé sous Windows Seven Edition familiale.
+
+_Ces cripts, volontairement "sur-commentés", s'adressent aux débutants en scripting BAT._
 
 ---
 _© Henri 21/12/19_
