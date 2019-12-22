@@ -1,7 +1,5 @@
 # WindowsAdmin
 
-## Rédaction en cours...
-
 #### Activation/désactivation du compte Administrateur général de Windows
 
 ## Raisons de la démarche
