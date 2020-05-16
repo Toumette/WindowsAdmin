@@ -21,6 +21,6 @@ Pour simplifier l'activation/désactivation de ce compte, j'ai créé 2 petits s
 Testé sous Windows Seven Edition familiale premium.
 
 ---
-_Ces cripts, volontairement "sur-commentés", s'adressent aux débutants en scripting BAT._
+_Ces scripts, volontairement "sur-commentés", s'adressent aux débutants en scripting BAT._
 _© Henri 21/12/19_
 
