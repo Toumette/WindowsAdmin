@@ -22,5 +22,4 @@ Testé sous Windows Seven Edition familiale premium.
 
 ---
 _Ces scripts, volontairement "sur-commentés", s'adressent aux débutants en scripting BAT._
-_© Henri 21/12/19_
-
+_© Henri 21/12/19 - Plus d'informations : https://henri.nitnoc.me_
